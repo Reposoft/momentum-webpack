@@ -1,0 +1,19 @@
+{
+  "name": "momentum-webpack",
+  "version": "0.1.0",
+  "description": "Encourage runnable specs through active use of Readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Reposoft/momentum-webpack"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Reposoft/momentum-webpack/issues"
+  },
+  "homepage": "https://github.com/Reposoft/momentum-webpack"
+}
